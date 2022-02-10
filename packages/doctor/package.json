@@ -1,0 +1,21 @@
+{
+  "name": "doctor",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "pritam1024 <dpritam1024@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/doctor.js",
+  "typings": "lib/doctor.d.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "tsc":"tsc",
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
